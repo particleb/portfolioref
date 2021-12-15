@@ -31,6 +31,7 @@ We've compiled a list of useful resources about portfolio management, tangency p
 
 - Statistical inference for the tangency portfolio in high dimension: [https://www.tandfonline.com/doi/full/10.1080/02331888.2021.1951730](https://www.tandfonline.com/doi/full/10.1080/02331888.2021.1951730)
 - A Universal End-to-End Approach to Portfolio Optimization via Deep Learning: [https://arxiv.org/pdf/2111.09170.pdf](https://arxiv.org/pdf/2111.09170.pdf)
+- The Oracle Estimator is sub-optimal for global minimum variance portfolio optimization: [https://arxiv.org/pdf/2112.07521.pdf](https://arxiv.org/pdf/2112.07521.pdf)
 
 # Calculation tutorials
 
